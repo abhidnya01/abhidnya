@@ -6,7 +6,7 @@
 <html>
 <head>
 <title>The jQuery Example</title>
-<script src="https://www.tutorialspoint.com/jquery/jquery-3.6.0.js"></script>
+<script src="jquery-3.2.1.min.js"></script>
 <script>
    $(document).ready(function() {
       $("#text").click(function(){
